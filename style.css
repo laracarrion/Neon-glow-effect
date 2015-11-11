@@ -636,7 +636,8 @@ body{
 /**** ANIMATION FRAMES ****/
 
 @keyframes lights1{
- 15% {
+ 
+  15% {
     z-index: 99;
     background: #00f0ff;
     box-shadow: 0 0 10px 2px #6ff7ff;
@@ -666,7 +667,7 @@ body{
 
 @-webkit-keyframes lights2{
   
-    15% {
+  15% {
     z-index: 99;
     background: #ff008a;
     box-shadow: 0 0 10px 2px #ff2c9e;
@@ -686,7 +687,7 @@ body{
 
 @-webkit-keyframes lights3{
   
-    15% {
+  15% {
     z-index: 99;
     background: #8aff01;
     box-shadow: 0 0 10px 2px #a8ff41;
@@ -705,7 +706,7 @@ body{
 
 @-webkit-keyframes lights4{
   
-    15% {
+  15% {
     z-index: 99;
     background: #ff8726;
     box-shadow: 0 0 10px 2px #ff7200;
